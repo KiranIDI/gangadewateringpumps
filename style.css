@@ -3345,6 +3345,18 @@ span.email-notes {
   -webkit-overflow-scrolling: touch;
   height: 1100px;
 }
+.sidebar5 {
+  transition: all 0.3s ease-out;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  height: 550px;
+}
+.sidebar6 {
+  transition: all 0.3s ease-out;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  height: 790px;
+}
 .top-padding {
   padding-top: 50px;
 }
