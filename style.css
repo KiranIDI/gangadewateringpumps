@@ -235,6 +235,9 @@ div#preloader {
 .padding-top {
   padding-top: 90px;
 }
+.pt {
+  padding-top: 30px;
+}
 .section-headline {
   margin-bottom: 60px;
   position: relative;
