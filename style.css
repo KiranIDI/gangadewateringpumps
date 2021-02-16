@@ -3360,6 +3360,12 @@ span.email-notes {
   -webkit-overflow-scrolling: touch;
   height: 790px;
 }
+.sidebar7 {
+  transition: all 0.3s ease-out;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  height: 1650px;
+}
 .top-padding {
   padding-top: 50px;
 }
@@ -3371,7 +3377,12 @@ span.email-notes {
   font-weight: bold;
   color: #fff;
 }
-
+.svg-logo {
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
 /*--------------------------------*/
 /* .End CSS
 /*--------------------------------*/
