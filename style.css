@@ -3314,6 +3314,18 @@ span.email-notes {
   text-transform: capitalize;
   font-weight: 700;
 }
+.footer-button a:hover {
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  color: #155a9b;
+  font-size: 16px;
+  padding: 8px 20px;
+  border-radius: 3px;
+  transition: 0.4s;
+  margin-top: 15px;
+  text-transform: capitalize;
+  font-weight: 700;
+}
 .footer-align-right a {
   color: #155a9b;
   text-align: right;
