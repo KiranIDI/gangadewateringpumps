@@ -165,6 +165,31 @@ body {
   background: #155a9b;
   opacity: 1;
 }
+.scrollToTop {
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  color: #fff;
+  z-index: 999;
+  bottom: 30px;
+  right: 30px;
+  position: fixed;
+  border-radius: 5px;
+  -webkit-transform: translateY(150px);
+  -ms-transform: translateY(150px);
+  transform: translateY(150px);
+  background: #05c3de;
+  text-align: center;
+  font-size: 16px;
+}
+.scrollToTop.active {
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  animation: bounceInDown 2s;
+  -webkit-animation: bounceInDown 2s;
+  -moz-animation: bounceInDown 2s;
+}
 .clear {
   clear: both;
 }
