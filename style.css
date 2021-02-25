@@ -3420,6 +3420,10 @@ span.email-notes {
   margin-right: auto;
   display: block;
 }
+
+.footer-right {
+  float: right;
+}
 /*--------------------------------*/
 /* .End CSS
 /*--------------------------------*/
